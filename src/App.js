@@ -3,7 +3,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hello
+      <div className='cryptoHeader'>
+
+      </div>
+      <div className='cryptoDisplay'>
+
+      </div>
+
     </div>
   );
 }
